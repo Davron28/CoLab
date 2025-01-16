@@ -1,0 +1,50 @@
+$IL: "IL";
+$IR: "IR";
+$ISB: "ISB";
+$IB: "IB";
+$ITLItalic: "ITL Italic";
+$ITL: "ITL";
+$ITR: "ITR";
+$ITM: "ITM";
+$ITSM: "ITSM";
+$ITB: "ITB";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+    font-family: sans-serif;
+    &:focus {
+        border: none;
+        outline: none;
+    }
+    &::before, &::after {
+        font-family: 'Font Awesome';
+    }
+}
+
+body {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+}
+
+@import "fonts";
+@import "grid";
+@import "header";
+@import "carousel";
+@import "navigation";
+@import "preloader";
+
+.activeLink {
+    border: 2px solid black;
+    padding: 3px;
+}

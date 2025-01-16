@@ -1,0 +1,559 @@
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: white;
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.preloader__element {
+    position: relative;
+}
+
+.ellipse {
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ellipse-1 {
+    width: 31px;
+    height: 31px;
+    top: 69%;
+    left: 32%;
+    animation: one 4s linear infinite;
+}
+
+.ellipse-2 {
+    width: 31px;
+    height: 31px;
+    top: 69%;
+    right: 32%;
+    animation: two 4s linear infinite;
+}
+
+.ellipse-3 {
+    width: 31px;
+    height: 31px;
+    top: 57%;
+    left: 22%;
+    animation: three 4s linear infinite;
+}
+
+.ellipse-4 {
+    width: 21px;
+    height: 21px;
+    top: 57%;
+    right: 48%;
+    animation: four 4s linear infinite;
+    background: white;
+}
+
+.ellipse-5 {
+    width: 67px;
+    height: 67px;
+    top: 53%;
+    right: 25%;
+    animation: five 4s linear infinite;
+}
+
+.ellipse-6 {
+    width: 69px;
+    height: 69px;
+    top: 39%;
+    left: 25%;
+    animation: six 4s linear infinite;
+}
+
+.ellipse-7 {
+    width: 31px;
+    height: 31px;
+    top: 42%;
+    right: 23%;
+    animation: seven 4s linear infinite;
+}
+
+.ellipse-8 {
+    width: 33px;
+    height: 33px;
+    top: 28%;
+    left: 32%;
+    animation: eight 4s linear infinite;
+}
+
+.ellipse-9 {
+    width: 21px;
+    height: 21px;
+    top: 52%;
+    right: 48%;
+    animation: nine 4s linear infinite;
+}
+
+.ellipse-10 {
+    width: 42px;
+    height: 42px;
+    top: 30%;
+    right: 30%;
+    animation: ten 4s linear infinite;
+}
+
+@keyframes one {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+        top: 69%;
+        left: 32%;
+    }
+
+    10% {
+        opacity: 1;
+        transform: scale(1);
+        top: 69%;
+        left: 32%;
+    }
+
+    20% {
+        opacity: 1;
+        transform: scale(1);
+        top: 69%;
+        left: 32%;
+    }
+
+    30% {
+        opacity: 1;
+        transform: scale(1);
+        top: 69%;
+        left: 32%;
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+        top: 69%;
+        left: 32%;
+    }
+
+    50% {
+        transform: scale(1.2);
+        top: 69%;
+        left: 32%;
+    }
+
+    100% {
+        transform: scale(1.2);
+        top: 54%;
+        left: 72%;
+    }
+}
+
+@keyframes two {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+        top: 69%;
+        right: 32%;
+    }
+
+    10% {
+        opacity: 1;
+        transform: scale(1);
+        top: 69%;
+        right: 32%;
+    }
+
+    20% {
+        opacity: 1;
+        transform: scale(1);
+        top: 69%;
+        right: 32%;
+    }
+
+    30% {
+        opacity: 1;
+        transform: scale(1);
+        top: 69%;
+        right: 32%;
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+        top: 69%;
+        right: 32%;
+    }
+
+    50% {
+        transform: scale(1.2);
+        top: 69%;
+        right: 32%;
+    }
+
+    100% {
+        top: 24%;
+        right: 62%;
+    }
+}
+
+@keyframes three {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+        top: 57%;
+        left: 22%;
+    }
+
+    10% {
+        opacity: 0;
+        transform: scale(1);
+        top: 57%;
+        left: 22%;
+    }
+
+    20% {
+        opacity: 1;
+        transform: scale(1);
+        top: 57%;
+        left: 22%;
+    }
+
+    30% {
+        opacity: 1;
+        transform: scale(1);
+        top: 57%;
+        left: 22%;
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+        top: 57%;
+        left: 22%;
+    }
+
+    50% {
+        transform: scale(1.2);
+        top: 57%;
+        left: 22%;
+    }
+
+    100% {
+        transform: scale(1);
+        top: 59%;
+        left: 62%;
+    }
+}
+
+@keyframes four {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+    }
+
+    10% {
+        opacity: 0;
+        transform: scale(1);
+    }
+
+    20% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    30% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.2);
+    }
+}
+
+@keyframes five {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+        top: 53%;
+        right: 25%;
+    }
+
+    10% {
+        opacity: 0;
+        transform: scale(1);
+        top: 53%;
+        right: 25%;
+    }
+
+    20% {
+        opacity: 1;
+        transform: scale(1);
+        top: 53%;
+        right: 25%;
+    }
+
+    30% {
+        opacity: 1;
+        transform: scale(1);
+        top: 53%;
+        right: 25%;
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+        top: 53%;
+        right: 25%;
+    }
+
+    50% {
+        transform: scale(1.2);
+        top: 53%;
+        right: 25%;
+    }
+
+    100% {
+        transform: scale(1.2);
+        top: 48%;
+        right: 71%;
+    }
+}
+
+@keyframes six {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+        top: 39%;
+        left: 25%;
+    }
+
+    10% {
+        opacity: 0;
+        transform: scale(1);
+        top: 39%;
+        left: 25%;
+    }
+
+    20% {
+        opacity: 0;
+        transform: scale(1);
+        top: 39%;
+        left: 25%;
+    }
+
+    30% {
+        opacity: 1;
+        transform: scale(1);
+        top: 39%;
+        left: 25%;
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+        top: 39%;
+        left: 25%;
+    }
+
+    50% {
+        transform: scale(1.2);
+        top: 39%;
+        left: 25%;
+    }
+
+    100% {
+        top: 29%;
+        left: 68%;
+        transform: scale(1.2);
+    }
+}
+
+@keyframes seven {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+        top: 42%;
+        right: 23%;
+    }
+
+    10% {
+        opacity: 0;
+        transform: scale(1);
+        top: 42%;
+        right: 23%;
+    }
+
+    20% {
+        opacity: 0;
+        transform: scale(1);
+        top: 42%;
+        right: 23%;
+    }
+
+    30% {
+        opacity: 1;
+        transform: scale(1);
+        top: 42%;
+        right: 23%;
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+        top: 42%;
+        right: 23%;
+    }
+
+    50% {
+        transform: scale(1.2);
+        top: 42%;
+        right: 23%;
+    }
+
+    100% {
+        transform: scale(1.2);
+        top: 52%;
+        right: 63%;
+    }
+}
+
+@keyframes eight {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+        top: 28%;
+        left: 32%;
+    }
+
+    10% {
+        opacity: 0;
+        transform: scale(1);
+        top: 28%;
+        left: 32%;
+    }
+
+    20% {
+        opacity: 0;
+        transform: scale(1);
+        top: 28%;
+        left: 32%;
+    }
+
+    30% {
+        opacity: 0;
+        transform: scale(1);
+        top: 28%;
+        left: 32%;
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+        top: 28%;
+        left: 32%;
+    }
+
+    50% {
+        transform: scale(1.2);
+        top: 28%;
+        left: 32%;
+    }
+
+    100% {
+        transform: scale(1.2);
+        top: 66%;
+        left: 69%;
+    }
+}
+
+@keyframes nine {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+    }
+
+    10% {
+        opacity: 0;
+        transform: scale(1);
+    }
+
+    20% {
+        opacity: 0;
+        transform: scale(1);
+    }
+
+    30% {
+        opacity: 0;
+        transform: scale(1);
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.2);
+    }
+}
+
+@keyframes ten {
+    0% {
+        opacity: 0;
+        transform: scale(1);
+        top: 30%;
+        right: 30%;
+    }
+
+    10% {
+        opacity: 0;
+        transform: scale(1);
+        top: 30%;
+        right: 30%;
+    }
+
+    20% {
+        opacity: 0;
+        transform: scale(1);
+        top: 30%;
+        right: 30%;
+    }
+
+    30% {
+        opacity: 0;
+        transform: scale(1);
+        top: 30%;
+        right: 30%;
+    }
+
+    40% {
+        opacity: 1;
+        transform: scale(1);
+        top: 30%;
+        right: 30%;
+    }
+
+    50% {
+        transform: scale(1.2);
+        top: 30%;
+        right: 30%;
+    }
+
+    100% {
+        transform: scale(1.2);
+        top: 68%;
+        right: 61%;
+    }
+}

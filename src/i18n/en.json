@@ -1,0 +1,202 @@
+{
+    "headerLink": {
+        "company": "About",
+        "clean": "Pure and technical gases",
+        "gases": "Gas analysis equipment",
+        "info": "Info"
+    },
+    "headerContent": {
+        "title": "Laboratory Support Service - CO Lab",
+        "info": "Consumables for laboratory, analytical services and metrology departments of the Republic of Uzbekistan",
+        "fiveYear": "years of market experience",
+        "clients": "satisfied customers",
+        "more": "View products"
+    },
+    "mainAbout": {
+        "companyTitle": "About the company",
+        "companyInfo": "Our expertise and products are used in oil and gas, medical, pharmaceutical, emission control laboratories and even earthquake early warning systems",
+        "companyTitleOne": "Priority to Quality and Innovation",
+        "companyTitleTwo": "Mission",
+        "companyTitleThree": "Objectives",
+        "companyTextOne": "We are a team of professionals who create comfort and cohesion for shared success.",
+        "companyTextTwo": "We aim to become the market leader in the supply of pure gases by providing our customers with reliable solutions to achieve high performance in research and development.",
+        "companyTextThree": "Providing scientific and research laboratories with high quality pure gas for accurate and efficient experiments and analyses."
+    },
+    "mainCommunication": {
+        "title": "To contact us!",
+        "titleTwo": "Leave your contacts and we'll get back to you shortly!",
+        "text": "We only use your details to contact you",
+        "phone": "Phone",
+        "send": "Send"
+    },
+    "mainProduct": {
+        "title": "Company products",
+        "text": "Our products meet high standards of quality and innovation, ensuring reliability and efficiency for your business.",
+        "titleTwo": "Pure and technical gases",
+        "textTwo": "Carrier gases have high purity ranging from 99.999 to 99.9999% and are available in grades from 5.0 to 6.0, providing reliable and efficient solutions for a variety of applications in laboratories, industry and other sectors.",
+        "titleThree": "Gas analytical equipment",
+        "textThree": "Laboratory Support Service provides comprehensive service of gas analytical equipment, including preventive maintenance, calibration and supply of necessary materials manufactured in the Russian Federation.",
+        "more": "Read More"
+    },
+    "mainSlider": {
+        "title": "Clients of our company",
+        "text": "We are proud of the successful and fruitful cooperation with our Partners",
+        "slideOne": {
+            "title": "Sanitary and Epidemiological Center",
+            "text": "Control in the field of sanitary-epidemiological tranquility and public health throughout Uzbekistan."
+        },
+        "slideTwo": {
+            "title": "ООО «Ферганский НПЗ»",
+            "text": "One of the leading enterprises in the production of fuels and lubricants in Uzbekistan"
+        },
+        "slideThree": {
+            "title": "O'ZELEKTROAPPARAT-ELECTROSHIELD",
+            "text": "One of the largest manufacturers of industrial electronics in the Republic of Uzbekistan."
+        },
+        "slideFour": {
+            "title": "Tashkent Metallurgical Plant",
+            "text": "The largest modern enterprise for the production of metal products in Uzbekistan."
+        },
+        "slideFive": {
+            "title": "Company «ВАТ»",
+            "text": "The leading manufacturer of tobacco products of the Republic of Uzbekistan."
+        },
+        "slideSix": {
+            "title": "«Узбекнефтегаз»",
+            "text": "The Company is the 11th largest producer of natural gas."
+        },
+        "slideSeven": {
+            "title": "Institute of Chemistry and Plant Substances, Academy of Sciences of Ruz",
+            "text": "The Company is the 11th largest producer of natural gas."
+        }
+    },
+    "footer": {
+        "reserved": "© 2024 All rights reserved",
+        "company": "About",
+        "clean": "Pure and technical gases",
+        "gases": "Gas analysis equipment",
+        "info": "Info",
+        "address": "Address: Republic of Uzbekistan, 100076, Tashkent city, Yashnabad district, Fargona Yuli street (Fergana highway), 13-A, Territory of the base of Road Electro-mechanical workshops"
+    },
+    "clean": {
+        "title": "Pure and technical gases",
+        "text": "Our products meet high standards of quality and innovation, ensuring reliability and efficiency for your business.",
+        "more": "Read More",
+        "itemOne": {
+            "title": "Nitrogen grade 5.0",
+            "text": "Nitrogen grade 5.0 is a high purity gas with a basic substance content of at least 99.999%. It is widely used in laboratory and industrial processes where precise conditions excluding impurities are required, such as electronics, metallurgy, semiconductor production, as well as in medicine and pharmaceuticals."
+        },
+        "itemTwo": {
+            "title": "Nitrogen grade 6.0",
+            "text": "Nitrogen grade 6.0 is a high purity gas with a basic substance content of at least 99.9999%. It is widely used in laboratory and industrial processes where precise conditions excluding impurities are required, such as electronics, metallurgy, semiconductor production, as well as in medicine and pharmaceuticals."
+        },
+        "itemThree": {
+            "title": "Argon grade 5.0",
+            "text": "Argon grade 5.0 is a high purity inert gas with a content of at least 99.999%. Due to its properties, it is widely used in areas such as metallurgy, electronics, laser technology and welding where protection against oxidation and other chemical reactions is required."
+        },
+        "itemFour": {
+            "title": "Argon grade 6.0",
+            "text": "Argon grade 6.0 is an ultrapure inert gas with a basic substance content of at least 99.9999%. It is used in critical processes where the cleanest possible environment is required, such as semiconductor manufacturing, optics, high-precision laser and scientific research."
+        },
+        "itemFive": {
+            "title": "Acetylene grade B",
+            "text": "Acetylene grade B has a purity of at least 98.8% and is a technical gas used mainly in flame cutting and welding of metals. Due to its high combustion temperature, acetylene grade B is ideal for operations requiring intensive heating and precise processing of materials. This gas is widely demanded in metallurgy, engineering and construction."
+        },
+        "itemSix": {
+            "title": "Acetylene grade A",
+            "text": "Acetylene grade A (99.5%) is a high purity gas designed for use in the most demanding technological processes such as precision welding, cutting and soldering of metals. Due to its characteristics, acetylene grade A provides stable and highly efficient combustion with maximum temperature, which makes it indispensable in industries such as mechanical engineering, aircraft and shipbuilding."
+        },
+        "itemSeven": {
+            "title": "Hydrogen grade A (99.99%)",
+            "text": "Grade A hydrogen (99.99%) is a pure gas widely used in various industrial and scientific applications such as chemical production, electronics, metallurgy and power generation. Due to its relatively high purity, 99.99% hydrogen provides efficient and safe processes where minimal impurities are required"
+        },
+        "itemEight": {
+            "title": "Hydrogen grade B (99.9999%)",
+            "text": "B grade hydrogen (99.9999%) is an ultra-high purity gas used in the most demanding technological and scientific processes such as semiconductor manufacturing, chemical industry, aviation and power generation. With virtually no impurities, grade B hydrogen provides maximum efficiency and precision in reactions and processes."
+        },
+        "itemNine": {
+            "title": "Hydrogen of 99.999% purity (grade 5.0)",
+            "text": "Hydrogen of 99.999% purity (grade 5.0) is an ultra-pure gas used in processes requiring minimal impurities such as electronics, pharmaceuticals, semiconductor manufacturing and power generation. Its high purity ensures accuracy and reliability in chemical reactions, laboratory research and other high-precision operations."
+        },
+        "itemTen": {
+            "title": "Zero air",
+            "text": "Zero air is a special gas mixture that simulates clean air, completely purified from hydrocarbons, moisture and other impurities. It is used in analytical chemistry, instrument calibration, and in the gas analysis process to ensure measurement accuracy. Zero air is often used in gas chromatography and environmental monitoring."
+        },
+        "itemEleven": {
+            "title": "Helium grade A",
+            "text": "Helium grade A is a gas of sufficient purity to be used in applications such as cryogenics, medicine, gas chromatography and laser technology. Due to its low density and inert properties, grade A helium is in demand in industrial and scientific processes where minimal impurities are required."
+        },
+        "itemTwelve": {
+            "title": "Helium grade 5.0",
+            "text": "Helium grade 5.0 is used in chromatography as a carrier gas. The purity is obtained by further purification of raw materials (helium A and B grades) and is supplied only in gaseous form in containers as required by the customer. Helium of this grade is used in cryogenics, laser technology, gas chromatography, for cooling in superconductors and even in nuclear power."
+        },
+        "itemThirteen": {
+            "title": "Helium grade 6.0",
+            "text": "Helium grade 6.0 is an ultra-high purity gas with a core content of at least 99.9999%. It is used in the most demanding purity applications such as cryogenics, superconductor technology, high-precision gas chromatography and semiconductor manufacturing. Due to its exceptional purity, Helium 6.0 guarantees precise and stable results in scientific research and industrial processes."
+        },
+        "itemFourteen": {
+            "title": "Technical oxide",
+            "text": "Technical oxide is a colorless gas with a slight sweet smell, widely used in various industrial processes. It is used in the food industry (for whipping cream), the automotive industry (as an additive in engines to increase power) and the chemical industry as a reaction control and oxidation catalyst."
+        },
+        "itemFifteen": {
+            "title": "Nitrous oxide (N₂O)",
+            "text": "Nitrous oxide (N₂O) is a colorless gas with a slightly sweet smell, widely used in industry and medicine. It is used as an oxidizing agent in chemical processes in the production of some chemical compounds. In medicine, nitrous oxide is used for anesthesia and pain relief."
+        },
+        "itemSixteen": {
+            "title": "Methane-argon mixtures",
+            "text": "Methane-argon mixtures are used in welding process where they improve the quality of welded joints without disturbing the metal structure and color, e.g. when welding stainless steel. The quality and accuracy of the mixture composition determines the number of defects in the finished product. It is very important to follow the technology and control the quality of the mixture in order to prevent defects in the finished product."
+        },
+        "itemSeventeen": {
+            "title": "Methane-argon mixture produced in Russia",
+            "text": "Methane-argon mixture produced in Russia is a combination of methane (CH₄) and argon (Ar) in the ratio of 90% and 10%. It is often used in gas chromatography for instrument calibration and accurate analytical measurements. Due to the inertness of argon and the specific properties of methane, the mixture provides stable conditions for equipment operation and accurate results."
+        },
+        "itemEighteen": {
+            "title": "Oxygen grade 3.5",
+            "text": "Oxygen grade 3.5 is a technical gas with a purity of 99.95%, which is widely used in various industries. Due to its oxidizing properties, grade 3.5 oxygen is used in metallurgy to improve metal smelting and cutting, in the chemical industry to accelerate reactions, and in medical and welding applications. In addition to the use of oxygen as a catalyst in glass production or in the space industry (in solid fuel engine blocks). Oxygen is used in the experimental process in pharmaceutical, medical and analytical laboratories throughout the Republic. "
+        },
+        "itemNineteen": {
+            "title": "High purity carbon dioxide (99.99% content and above)",
+            "text": "High purity carbon dioxide (99.99% and above) is used in the beverage industry, semiconductor manufacturing and even in the laser cutting process as a pure gas to harden materials. SF6 or sulphur hexafluoride is an ozone depleting agent of the Earth and its use is strictly limited. Meanwhile, this gas is indispensable in the electrical industry, where it is used as an insulating and arcing gas in high-voltage electrical installations such as switchgear, transformers and circuit breakers."
+        },
+        "info": "Gas information",
+        "back": "To the catalog"
+    },
+    "gases": {
+        "title": "Gas analytical equipment",
+        "more": "Read More",
+        "info": "Gas chromatography is a powerful analytical technique used to separate, identify and quantify components of mixtures that are in a gaseous or easily vaporized state. The carrier gas in this method plays a key role as it transports the analyte through the column. Among the popular carrier gases are helium and argon. In this article we will look at the characteristics, advantages and specifics of the gases offered by CO Labs for use in gas chromatography. Helium is an inert gas that is often used in gas chromatography due to its unique properties. It has a low density and high diffusivity, which provides high analysis speed and good resolution. Helium does not react chemically with analytes or column materials, which reduces the risk of nonspecific interactions and improves the reproducibility of results.The main advantages of using high-purity helium in the analysis are high analyte transfer rate through the column, good resolution (due to low viscosity and high thermal conductivity) and minimal risk of interaction with the analyte, providing clean peaks on the chromatogram. CO Lab Company always has a sufficient amount of pure product of 5.0 (99.999%) and 6.0 (99.9999%) purity grades in stock to meet the needs of the laboratories of the Republic. An alternative carrier gas is Argon. This gas, which is also inert, is used in gas chromatography, often in combination with methane (argon/methane) for flame ionization detection. Argon has a high density and a slower rate of analyte transport across the column than helium, which can affect analysis time and resolution.Argon is significantly less expensive than helium, suitable for certain types of detectors such as mass spectrometric type detectors or electron capture detectors. Argon provides a stable baseline and increased sensitivity for specific applications. CO Lab Company imports special purity argon (5.0 and 6.0 - 99.999% and 99.9999% purity) from plants in the Russian Federation. It has a constant stock of gases in the warehouse and accepts containers for exchange. Helium and argon carrier gases are used in gas chromatography due to their neutrality and chemical inertness. The choice between them depends on the specific tasks and conditions of the chromatographic analysis. The possibilities of their use make gas chromatography a versatile and powerful tool in analytical chemistry, enabling effective solutions for quality control, environmental monitoring and pharmaceutical research. CO Lab will supply the laboratory with any carrier gases depending on the production needs.",
+        "gasesOne": {
+            "title": "Chromatography",
+            "text": "Gas chromatography is a powerful analytical technique used to separate, identify and quantify components of mixtures that are in a gaseous or readily vaporizable state. The carrier gas plays a key role in this method."
+        },
+        "gasesTwo": {
+            "title": "Spectrometry",
+            "text": "Ion mobility spectrometry is a common analytical method in modern manufacturing. This analytical method is widely used in various fields such as chemistry, physics, biology, medicine, and defense."
+        },
+        "gasesThree": {
+            "title": "CBC mixtures (calibration gas mixtures)",
+            "text": "CO Lab offers calibration gas mixtures for accurate calibration of your gas analytical instruments. The price is negotiable based on the customer's requirements, complexity of the composition, delivery volume."
+        }
+    },
+    "info": {
+        "title": "Information section",
+        "read": "Read Full",
+        "itemOne": {
+            "title": "Chromatography",
+            "text": "In this article we will review the characteristics, advantages and specifics of gas chromatography applications of the gases offered by CO Labs. Helium is an inert gas that is often used in gas chromatography due to its unique properties. It has a low density and high diffusivity, which provides high analysis speed and good resolution. Helium does not react chemically with analytes or column materials, reducing the risk of nonspecific interactions and improving reproducibility."
+        },
+        "itemTwo": {
+            "title": "CBC mixtures (calibration gas mixtures)",
+            "text": "CO Lab Company offers calibration gas mixtures for accurate calibration of your gas analytical instruments. The production of CBC mixtures is carried out at a specialized plant in Russia, the mixtures have all necessary documentation and permits from metrological services of the Republic of Uzbekistan."
+        },
+        "itemThree": {
+            "title": "VGM mixtures (calibration gas mixture)",
+            "text": "CO Lab Company offers calibration gas mixtures for accurate calibration of your gas analytical instruments. The production of CBC mixtures is carried out at a specialized plant in Russia, the mixtures have all necessary documentation and permits from metrological services of the Republic of Uzbekistan."
+        },
+        "itemFour": {
+            "title": "Spectrometry",
+            "text": "Ion mobility spectrometry is a common analytical method in modern manufacturing. This method of analytical research is widely used in various fields such as chemistry, physics, biology, medicine, and defense. Among other methods of spectrometric analysis a special place is occupied by the method of “Mass Spectrometry” - it is a high-precision analytical method that allows to determine the mass and structure of molecules. The principles of this technology are based on the measurement of the ratio of the mass of an ion to its charge (m/z)."
+        }
+    },
+    "lang": "EN"
+}
